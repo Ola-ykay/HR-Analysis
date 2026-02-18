@@ -26,6 +26,7 @@ Many organizations face challenges such as:
 -Low employee satisfaction
 - Unclear promotion patterns
 Without proper data analysis, it becomes difficult for HR teams to make informed decisions.
+
 This project helps to:
 - Identify why employees leave
 - Understand employee distribution across departments
@@ -33,7 +34,7 @@ This project helps to:
 - Check if performance aligns with salary hikes
 - Support better HR decision-making
 
-## 🛠 Tools and Features Used
+## 🛠Tools and Features Used
 Tool Used:
  Microsoft Power BI
 
@@ -91,8 +92,19 @@ Performance & Engagement Page
 - Good Performance
 
 ## Insights
+ - Employee by years of service
+ - Employees by distance status
+ - Employees by department
+ - Attrition by department
+ - Attrition by job role
+ - Overtime vs attrition
+ - Attrition vs job satisfaction
+ - Employees by job satisfaction
+ - Performance rating by average salary hike
+ - Monthly income by job role
+ - Employees by training time
 
-## 💼Business Impact
+## 💼Business Impacts
 
 This dashboard helps HR teams to:
 - Identify departments with high attrition
