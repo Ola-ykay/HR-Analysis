@@ -23,8 +23,9 @@ The dashboard is structured into three analytical pages:
  ## Problem Statement
 Many organizations face challenges such as:
 - High employee turnover
--Low employee satisfaction
+- Low employee satisfaction
 - Unclear promotion patterns
+
 Without proper data analysis, it becomes difficult for HR teams to make informed decisions.
 
 This project helps to:
@@ -98,15 +99,11 @@ Performance & Engagement Page
  - Attrition by job role: Sales Representatives have the highest attrition rate (40.2%). 
  - Overtime vs attrition: Employees working overtime show 54% attrition, non-overtime employees show 46% attrition. Overtime is positively associated with employee turnover, indicating workload stress.
  - Attrition vs job satisfaction: Low satisfaction has 19.7% attrition, Medium satisfaction has 16.5% attrition, High satisfaction has 11.3% attrition. Lower job satisfaction significantly increases attrition risk.
+ - Overtime Employees by department: This shows that of workers that engage in overtime are from the Research & Development department
  - Employees by job satisfaction: 569 employees has low job satifaction covering 38.7% of total employees.
  - Performance rating by average salary hike: Excellent performers receive 61% of total average salary hikes while good performers receive 39%. Salary increments are performance-aligned, indicating a performance-based reward system.
- - 
-
-Analysis:
-A large proportion of employees fall into the low satisfaction category — this is a potential risk indicator.
- - Performance rating by average salary hike
- - Monthly income by job role
- - Employees by training time
+ - Monthly income by job role: Manager role received the highest income compared to other job role.
+ - Employees by training time: 96% of employees were enrolled for 2 times and above training. Employees with lower or no training hours may show weaker performance or lower satisfaction.
 
 ## 💼Business Impacts
 
@@ -116,6 +113,17 @@ This dashboard helps HR teams to:
 - Monitor employee satisfaction
 - Ensure fair reward and promotion systems
 - Make better workforce planning decisions
-- It turns raw HR data into clear, meaningful insights for decision-makers.
 
+## Data Snapshots
+## 📷Data Snapshots
+![Dataset]()
+![fullviewd_dashboard]()
+![page1]()
+![page2]()
+![page3]()
+
+## 📌 Conclusion
+The HR Analytics Dashboard provides data-driven insights into workforce distribution, attrition drivers, performance alignment, and employee satisfaction. It identifies key risk areas such as high sales turnover, overtime-related exits, and low job satisfaction levels. By transforming HR data into actionable insights, the dashboard supports better retention strategies, workforce planning, and informed decision-making to improve overall organizational performance.
+gith
+  
   
