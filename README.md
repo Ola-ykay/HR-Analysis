@@ -114,15 +114,13 @@ This dashboard helps HR teams to:
 - Ensure fair reward and promotion systems
 - Make better workforce planning decisions
 
-## Data Snapshots
 ## 📷Data Snapshots
-![Dataset]()
-![fullviewd_dashboard]()
-![page1]()
-![page2]()
-![page3]()
+![fullviewd_dashboard](https://github.com/Ola-ykay/HR-Analysis/blob/main/HR-fulldashboard.png)
+![page1](https://github.com/Ola-ykay/HR-Analysis/blob/main/HR-page1.png)
+![page2](https://github.com/Ola-ykay/HR-Analysis/blob/main/HR-page2.png)
+![page3](https://github.com/Ola-ykay/HR-Analysis/blob/main/HR-page3.png)
 
-## 📌 Conclusion
+## 📌Conclusion
 The HR Analytics Dashboard provides data-driven insights into workforce distribution, attrition drivers, performance alignment, and employee satisfaction. It identifies key risk areas such as high sales turnover, overtime-related exits, and low job satisfaction levels. By transforming HR data into actionable insights, the dashboard supports better retention strategies, workforce planning, and informed decision-making to improve overall organizational performance.
 gith
   
